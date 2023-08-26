@@ -1,0 +1,22 @@
+.dot {
+  width: 6px;
+  height: 6px;
+  border-radius: 50%;
+  margin: 0 17px;
+
+  &.blue {
+    background: blue;
+  }
+
+  &.green {
+    background: green;
+  }
+
+  &.orange {
+    background: orange;
+  }
+
+  &.red {
+    background: red;
+  }
+}

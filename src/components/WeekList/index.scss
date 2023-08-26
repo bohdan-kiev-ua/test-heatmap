@@ -1,0 +1,13 @@
+.week-list {
+  overflow-x: auto;
+
+  &__timeslots {
+    margin-left: 36px;
+    display: flex;
+  }
+
+  &__timeslot {
+    min-width: 40px;
+    font-size: 11px;
+  }
+}

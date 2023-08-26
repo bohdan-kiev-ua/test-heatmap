@@ -1,0 +1,13 @@
+.week-row {
+  display: flex;
+
+  &__title {
+    margin: 4px 0;
+    min-width: 32px;
+  }
+
+  &__dots {
+    display: flex;
+    align-items: center;
+  }
+}
